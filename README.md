@@ -1,6 +1,6 @@
 
 # LAB - Class 02
-## Project: Snakes Shop
+## Project: Modules and Testing
 ## Author: Qais Dwairi
 ## Links and Resources :-
     
