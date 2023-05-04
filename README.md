@@ -14,12 +14,13 @@
 
 ### How to use your library (where applicable) 
 ### Tests
-    - How do you run tests?
-         1. first you need to install pytest.
+
+- **How do you run tests?**
+ 1. first you need to install pytest.
          **Run this command**
              - pytest
-
-    - Any tests of note?
-       *no*
-    - Describe any tests that you did not complete, skipped, etc
-       i didn't skip any tests 
+- **Any tests of note?**
+        *no*
+- **Describe any tests that you did not complete, skipped, etc**
+      *i didn't skip any tests*
+    
