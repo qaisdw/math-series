@@ -10,7 +10,7 @@
 
 ### How to initialize/run your application (where applicable)
 
-    > python3 series.py
+    > python3 series.py / pytest
 
 ### How to use your library (where applicable) 
 ### Tests
